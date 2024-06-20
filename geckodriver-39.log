@@ -1,0 +1,42 @@
+1718851670307	geckodriver	INFO	Listening on 127.0.0.1:49760
+1718851673449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Daniel\\AppData\\Local\\Temp\\rust_mozprofilekd3v9W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718851673858	Marionette	INFO	Marionette enabled
+1718851674023	Marionette	INFO	Listening on port 49770
+WebDriver BiDi listening on ws://127.0.0.1:49761
+Read port: 49770
+1718851674212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49761/devtools/browser/56c29b1d-2b29-40a3-bf4b-8c9cfb93cef3
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1718851704506	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1718851826814	Marionette	INFO	Stopped listening on port 49770
+Dynamically enable window occlusion 1

@@ -1,0 +1,21 @@
+1718820473444	geckodriver	INFO	Listening on 127.0.0.1:57111
+1718820476536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Daniel\\AppData\\Local\\Temp\\rust_mozprofileulbvG6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718820476863	Marionette	INFO	Marionette enabled
+1718820477010	Marionette	INFO	Listening on port 57119
+WebDriver BiDi listening on ws://127.0.0.1:57112
+Read port: 57119
+1718820477163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57112/devtools/browser/3f1cdf66-2f1f-47be-bb4b-a3d09f86ad89
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+console.error: ({})
+1718820506896	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1718820507972	Marionette	INFO	Stopped listening on port 57119
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-defaults getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
